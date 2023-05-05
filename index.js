@@ -9,7 +9,7 @@ app.get("/", (req,res) => {
 })
 
 app.listen(3000, () => {
-  console.log("Listening on http://locahost:3000")
+  console.log("Listening on http://localhost:3000")
 })
 
 
